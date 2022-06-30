@@ -1,5 +1,5 @@
 # mpii_gaze_estimation
-code practice
+Gaze estimation practice
 
 
 
